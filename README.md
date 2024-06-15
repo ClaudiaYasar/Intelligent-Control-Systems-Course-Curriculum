@@ -30,38 +30,25 @@ Recorded experiments are utilized to collect and create our datasets, allowing f
 Live Scripts with complementary material are available in folders containing the following sections:
 
 ## Introduction to Inteligent Control
-1. Computational Thinking Tools 
-https://www.mathworks.com/matlabcentral/fileexchange/164221-computational-thinking-tools
+1. [Computational Thinking Tools](https://www.mathworks.com/matlabcentral/fileexchange/164221-computational-thinking-tools)
 
 ## Dynamical Systems Modeling
-2. DC-Motor-Dynamics-Modeling-and-Position-Control
-https://www.mathworks.com/matlabcentral/fileexchange/164976-dc-motor-dynamics-modeling-and-position-control
-3. Single-Heater-Response
-https://www.mathworks.com/matlabcentral/fileexchange/164206-single-heater-response
-4. First-Order-Plus-Dead-Time-Models
-https://www.mathworks.com/matlabcentral/fileexchange/167976-first-order-plus-dead-time-models
-5. Coastline-Prediction-Using-Climate-Change-Models
-https://www.mathworks.com/matlabcentral/fileexchange/168136-coastline-prediction-using-climate-change-models
+2. [DC-Motor-Dynamics-Modeling-and-Position-Control](https://www.mathworks.com/matlabcentral/fileexchange/164976-dc-motor-dynamics-modeling-and-position-control)
+3. [Single-Heater-Response](https://www.mathworks.com/matlabcentral/fileexchange/164206-single-heater-response)
+4. [First-Order-Plus-Dead-Time-Models](https://www.mathworks.com/matlabcentral/fileexchange/167976-first-order-plus-dead-time-models)
+5. [Coastline-Prediction-Using-Climate-Change-Models](https://www.mathworks.com/matlabcentral/fileexchange/168136-coastline-prediction-using-climate-change-models)
 
 ## Data-driven Modeling
-6. Semi-Empirical-Model-Estimation-Regression
-https://www.mathworks.com/matlabcentral/fileexchange/167986-semi-empirical-model-estimation-regression
-7. Machine-Learning-Classification-with-Experiments
-https://www.mathworks.com/matlabcentral/fileexchange/167851-machine-learning-classification-with-experiments
-8. Deep Learning and Yolov2 for Object Classification
-https://www.mathworks.com/matlabcentral/fileexchange/168121-deep-learning-and-yolov2-for-object-classification
-9. Python-and-MATLAB-RRN-LSTM-Model-for-Prediction-and-Forecast
-https://www.mathworks.com/matlabcentral/fileexchange/168131-python-and-matlab-rrn-lstm-model-for-prediction-and-forecast
+6. [Semi-Empirical-Model-Estimation-Regression](https://www.mathworks.com/matlabcentral/fileexchange/167986-semi-empirical-model-estimation-regression)
+7. [Machine-Learning-Classification-with-Experiments](https://www.mathworks.com/matlabcentral/fileexchange/167851-machine-learning-classification-with-experiments)
+8. [Deep Learning and Yolov2 for Object Classification](https://www.mathworks.com/matlabcentral/fileexchange/168121-deep-learning-and-yolov2-for-object-classification)
+9. [Python-and-MATLAB-RRN-LSTM-Model-for-Prediction-and-Forecast](https://www.mathworks.com/matlabcentral/fileexchange/168131-python-and-matlab-rrn-lstm-model-for-prediction-and-forecast)
 
 ## Model-driven and Data-Driven Control
-10. Model Predictive Control for DC Motor Positioning
-https://www.mathworks.com/matlabcentral/fileexchange/165701-model-predictive-control-for-dc-motor-positioning
-11. Model-Reference-Adaptive-Control
-https://www.mathworks.com/matlabcentral/fileexchange/165477-model-reference-adaptive-control
-12. Extremum-Seeking-Control-Mass-Spring-Damper-System
-https://www.mathworks.com/matlabcentral/fileexchange/168021-extremum-seeking-control-mass-spring-damper-system
-13. DC-Motor-Position-with-Fuzzy-Logic-Control
-https://www.mathworks.com/matlabcentral/fileexchange/167991-dc-motor-position-with-fuzzy-logic-control
+10. [Model Predictive Control for DC Motor Positioning](https://www.mathworks.com/matlabcentral/fileexchange/165701-model-predictive-control-for-dc-motor-positioning)
+11. [Model-Reference-Adaptive-Control](https://www.mathworks.com/matlabcentral/fileexchange/165477-model-reference-adaptive-control)
+12. [Extremum-Seeking-Control-Mass-Spring-Damper-System](https://www.mathworks.com/matlabcentral/fileexchange/168021-extremum-seeking-control-mass-spring-damper-system)
+13. [DC-Motor-Position-with-Fuzzy-Logic-Control](https://www.mathworks.com/matlabcentral/fileexchange/167991-dc-motor-position-with-fuzzy-logic-control)
 
 # Learning Goals
 - Learn the fundamentals behind intelligent control system design to handle complex systems 
@@ -73,11 +60,11 @@ https://www.mathworks.com/matlabcentral/fileexchange/167991-dc-motor-position-wi
 This course does not assume any prior knowledge of neural networks, machine learning or AI. However, it is designed for students from basic sciences or related engineering fields.
 
 - [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) - Introductory tutorial on commonly used features and workflows.
-- Simulink Onramp - Learn the basics of how to create, edit, and simulate models in Simulink. Use block diagrams to represent real-world systems and simulate components and algorithms.
-- Control Design Onramp with Simulink - Adjust the gains of a PID controller to change the dynamics of a physical system and get the desired closed-loop system behaviour.
-- Machine Learning Onramp  - An interactive introduction to practical machine learning methods for classification problems.
-- Deep Learning Onramp - Provides an interactive introduction to practical deep learning methods. You will learn to use deep learning techniques in MATLAB for image recognition.
-- Reinforcement Learning Onramp - Add a reinforcement learning agent to a Simulink® model and use MATLAB to train it to choose the best action in a given situation.
+- [Simulink Onramp](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink) Learn the basics of how to create, edit, and simulate models in Simulink. Use block diagrams to represent real-world systems and simulate components and algorithms.
+- [Control Design Onramp with Simulink](https://matlabacademy.mathworks.com/details/control-design-onramp-with-simulink/controls)- Adjust the gains of a PID controller to change the dynamics of a physical system and get the desired closed-loop system behaviour.
+- [Machine Learning Onramp] (https://matlabacademy.mathworks.com/details/machine-learning-onramp/machinelearning) - An interactive introduction to practical machine learning methods for classification problems.
+- [Deep Learning Onramp](https://matlabacademy.mathworks.com/details/deep-learning-onramp/deeplearning)- Provides an interactive introduction to practical deep learning methods. You will learn to use deep learning techniques in MATLAB for image recognition.
+- [Reinforcement Learning Onramp] (https://matlabacademy.mathworks.com/details/reinforcement-learning-onramp/reinforcementlearning) - Add a reinforcement learning agent to a Simulink® model and use MATLAB to train it to choose the best action in a given situation.
 
 # Products
 MATLAB, Statistics and Machine Learning Toolbox™, Deep Learning Toolbox™ , Control System Toolbox™, Model Predictive Control Toolbox™
