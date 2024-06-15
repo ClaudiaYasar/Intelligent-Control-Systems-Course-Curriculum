@@ -63,6 +63,16 @@ https://www.mathworks.com/matlabcentral/fileexchange/168021-extremum-seeking-con
 13. DC-Motor-Position-with-Fuzzy-Logic-Control
 https://www.mathworks.com/matlabcentral/fileexchange/167991-dc-motor-position-with-fuzzy-logic-control
 
+# Learning Goals
+- Learn the fundamentals behind intelligent control system design to handle complex systems 
+- Acquire knowledge and skills in the latest technology trends and technical computing for Model-Based Design and control with MATLAB and Simulink 
+- Utilize computationally efficient tools to analyze dynamics and control systems, enabling the evaluation of the practical considerations for both experimental or simulated control systems 
+- Engage in project-based learning to complete a specific project, assess system performance, and have a  comprehensive understanding of various data-driven modeling, data-driven methodologies, and  data-driven control applications
+
+# Acknowledgements
+I would like to express my gratitude to the students of the Intelligent Control Systems course of the YTÜ Control and Automation Engineering department, Class 2022 and 2023, whose dedication and hard work made this project possible. I am also deeply thankful to our Control Tech LAB team, Doctors Marco Rossi, and Melda Ulusoy for their invaluable contributions.
+
+
 
 
 
