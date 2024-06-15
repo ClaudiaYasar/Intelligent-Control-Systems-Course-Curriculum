@@ -9,6 +9,7 @@ The package consists of a series of MATLAB [Live Scripts](https://www.mathworks
 [MATLAB](https://www.mathworks.com/products/matlab.html) is a programming and numeric computing platform developed by MathWorks.
 
 # Examples 
+
 ![image](https://github.com/ClaudiaYasar/Intelligent-Control-Systems-Course-Curriculum/assets/132692602/26494da2-53d3-4d3e-88e2-f50ff680522a)
 
 # Instructions
