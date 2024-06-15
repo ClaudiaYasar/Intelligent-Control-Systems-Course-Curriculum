@@ -62,9 +62,9 @@ This course does not assume any prior knowledge of neural networks, machine lear
 - [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) - Introductory tutorial on commonly used features and workflows.
 - [Simulink Onramp](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink) Learn the basics of how to create, edit, and simulate models in Simulink. Use block diagrams to represent real-world systems and simulate components and algorithms.
 - [Control Design Onramp with Simulink](https://matlabacademy.mathworks.com/details/control-design-onramp-with-simulink/controls)- Adjust the gains of a PID controller to change the dynamics of a physical system and get the desired closed-loop system behaviour.
-- [Machine Learning Onramp] (https://matlabacademy.mathworks.com/details/machine-learning-onramp/machinelearning) - An interactive introduction to practical machine learning methods for classification problems.
+- [Machine Learning Onramp](https://matlabacademy.mathworks.com/details/machine-learning-onramp/machinelearning) - An interactive introduction to practical machine learning methods for classification problems.
 - [Deep Learning Onramp](https://matlabacademy.mathworks.com/details/deep-learning-onramp/deeplearning)- Provides an interactive introduction to practical deep learning methods. You will learn to use deep learning techniques in MATLAB for image recognition.
-- [Reinforcement Learning Onramp] (https://matlabacademy.mathworks.com/details/reinforcement-learning-onramp/reinforcementlearning) - Add a reinforcement learning agent to a Simulink® model and use MATLAB to train it to choose the best action in a given situation.
+- [Reinforcement Learning Onramp](https://matlabacademy.mathworks.com/details/reinforcement-learning-onramp/reinforcementlearning) - Add a reinforcement learning agent to a Simulink® model and use MATLAB to train it to choose the best action in a given situation.
 
 # Products
 MATLAB, Statistics and Machine Learning Toolbox™, Deep Learning Toolbox™ , Control System Toolbox™, Model Predictive Control Toolbox™
