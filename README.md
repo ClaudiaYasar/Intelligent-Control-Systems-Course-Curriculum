@@ -20,7 +20,7 @@ The instructions inside the Live Scripts will guide you through the activities a
 ## PDFs Material
 Some subjects can also be approached by following presentations that will provide links to complementary resources.
 
-## Experimental platforms
+## Experimental Platforms
 This teaching package employs Arduino-based, low-cost hardware for hands-on experiments. The platforms include the TC-lab with two heaters and temperature sensors https://apmonitor.com/pdc/index.php/Main/ArduinoTemperatureControl, a DC micro gear motor, and image processing using a webcam. These setups allow students to use and evaluate datasets, providing practical experience in intelligent control systems.
 
 ## Videos 
@@ -72,13 +72,12 @@ https://www.mathworks.com/matlabcentral/fileexchange/167991-dc-motor-position-wi
 # Suggested Pre-work
 This course does not assume any prior knowledge of neural networks, machine learning or AI. However, it is designed for students from basic sciences or related engineering fields.
 
-## MATLAB Onramp - Introductory tutorial on commonly used features and workflows.
-## Simulink Onramp Learn the basics of how to create, edit, and simulate models in Simulink. Use block diagrams to represent real-world systems and simulate components and algorithms.
-## Control Design Onramp with Simulink - Adjust the gains of a PID controller to change the dynamics of a physical system and get the desired closed-loop system behaviour.
-## Machine Learning Onramp  - An interactive introduction to practical machine learning methods for classification problems.
-## Introduction to Deep learning
-## Deep Learning Onramp - Provides an interactive introduction to practical deep learning methods. You will learn to use deep learning techniques in MATLAB for image recognition.
-## Reinforcement Learning Onramp - Add a reinforcement learning agent to a Simulink® model and use MATLAB to train it to choose the best action in a given situation.
+- MATLAB Onramp - Introductory tutorial on commonly used features and workflows.
+- Simulink Onramp Learn the basics of how to create, edit, and simulate models in Simulink. Use block diagrams to represent real-world systems and simulate components and algorithms.
+- Control Design Onramp with Simulink - Adjust the gains of a PID controller to change the dynamics of a physical system and get the desired closed-loop system behaviour.
+- Machine Learning Onramp  - An interactive introduction to practical machine learning methods for classification problems.
+- Deep Learning Onramp - Provides an interactive introduction to practical deep learning methods. You will learn to use deep learning techniques in MATLAB for image recognition.
+- Reinforcement Learning Onramp - Add a reinforcement learning agent to a Simulink® model and use MATLAB to train it to choose the best action in a given situation.
 
 # Products
 MATLAB, Statistics and Machine Learning Toolbox™, Deep Learning Toolbox™ 
