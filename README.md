@@ -60,7 +60,7 @@ Live Scripts with complementary material are available in folders containing the
 This course does not assume any prior knowledge of neural networks, machine learning or AI. However, it is designed for students from basic sciences or related engineering fields.
 
 - [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) - Introductory tutorial on commonly used features and workflows.
-- [Simulink Onramp](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink) Learn the basics of how to create, edit, and simulate models in Simulink. Use block diagrams to represent real-world systems and simulate components and algorithms.
+- [Simulink Onramp](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink) - Learn the basics of how to create, edit, and simulate models in Simulink. Use block diagrams to represent real-world systems and simulate components and algorithms.
 - [Control Design Onramp with Simulink](https://matlabacademy.mathworks.com/details/control-design-onramp-with-simulink/controls)- Adjust the gains of a PID controller to change the dynamics of a physical system and get the desired closed-loop system behaviour.
 - [Machine Learning Onramp](https://matlabacademy.mathworks.com/details/machine-learning-onramp/machinelearning) - An interactive introduction to practical machine learning methods for classification problems.
 - [Deep Learning Onramp](https://matlabacademy.mathworks.com/details/deep-learning-onramp/deeplearning)- Provides an interactive introduction to practical deep learning methods. You will learn to use deep learning techniques in MATLAB for image recognition.
