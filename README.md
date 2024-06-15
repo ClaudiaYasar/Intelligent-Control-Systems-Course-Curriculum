@@ -69,6 +69,20 @@ https://www.mathworks.com/matlabcentral/fileexchange/167991-dc-motor-position-wi
 - Utilize computationally efficient tools to analyze dynamics and control systems, enabling the evaluation of the practical considerations for both experimental or simulated control systems 
 - Engage in project-based learning to complete a specific project, assess system performance, and have a  comprehensive understanding of various data-driven modeling, data-driven methodologies, and  data-driven control applications
 
+# Suggested Pre-work
+This course does not assume any prior knowledge of neural networks, machine learning or AI. However, it is designed for students from basic sciences or related engineering fields.
+
+## MATLAB Onramp - Introductory tutorial on commonly used features and workflows.
+## Simulink Onramp Learn the basics of how to create, edit, and simulate models in Simulink. Use block diagrams to represent real-world systems and simulate components and algorithms.
+## Control Design Onramp with Simulink - Adjust the gains of a PID controller to change the dynamics of a physical system and get the desired closed-loop system behaviour.
+## Machine Learning Onramp  - An interactive introduction to practical machine learning methods for classification problems.
+## Introduction to Deep learning
+## Deep Learning Onramp - Provides an interactive introduction to practical deep learning methods. You will learn to use deep learning techniques in MATLAB for image recognition.
+## Reinforcement Learning Onramp - Add a reinforcement learning agent to a Simulink® model and use MATLAB to train it to choose the best action in a given situation.
+
+# Products
+MATLAB, Statistics and Machine Learning Toolbox™, Deep Learning Toolbox™ 
+
 # Acknowledgements
 I would like to express my gratitude to the students of the Intelligent Control Systems course of the YTÜ Control and Automation Engineering department, Class 2022 and 2023, whose dedication and hard work made this project possible. I am also deeply thankful to our Control Tech LAB team, Doctors Marco Rossi, and Melda Ulusoy for their invaluable contributions.
 
