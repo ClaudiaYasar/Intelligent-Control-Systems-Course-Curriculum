@@ -29,24 +29,41 @@ Recorded experiments are utilized to collect and create our datasets, allowing f
 # Contents
 Live Scripts with complementary material are available in folders containing the following sections:
 
+## Introduction to Inteligent Control
 1. Computational Thinking Tools 
 https://www.mathworks.com/matlabcentral/fileexchange/164221-computational-thinking-tools
 
+## Dynamical Systems Modeling
 2. DC-Motor-Dynamics-Modeling-and-Position-Control
 https://www.mathworks.com/matlabcentral/fileexchange/164976-dc-motor-dynamics-modeling-and-position-control
 3. Single-Heater-Response
 https://www.mathworks.com/matlabcentral/fileexchange/164206-single-heater-response
 4. First-Order-Plus-Dead-Time-Models
 https://www.mathworks.com/matlabcentral/fileexchange/167976-first-order-plus-dead-time-models
+5. Coastline-Prediction-Using-Climate-Change-Models
+https://www.mathworks.com/matlabcentral/fileexchange/168136-coastline-prediction-using-climate-change-models
 
-5. Semi-Empirical-Model-Estimation-Regression
+## Data-driven Modeling
+6. Semi-Empirical-Model-Estimation-Regression
 https://www.mathworks.com/matlabcentral/fileexchange/167986-semi-empirical-model-estimation-regression
-6. Machine-Learning-Classification-with-Experiments
+7. Machine-Learning-Classification-with-Experiments
 https://www.mathworks.com/matlabcentral/fileexchange/167851-machine-learning-classification-with-experiments
-7. Deep Learning and Yolov2 for Object Classification
+8. Deep Learning and Yolov2 for Object Classification
 https://www.mathworks.com/matlabcentral/fileexchange/168121-deep-learning-and-yolov2-for-object-classification
-8. Python-and-MATLAB-RRN-LSTM-Model-for-Prediction-and-Forecast
+9. Python-and-MATLAB-RRN-LSTM-Model-for-Prediction-and-Forecast
 https://www.mathworks.com/matlabcentral/fileexchange/168131-python-and-matlab-rrn-lstm-model-for-prediction-and-forecast
+
+## Model-driven and Data-Driven Control
+10. Model Predictive Control for DC Motor Positioning
+https://www.mathworks.com/matlabcentral/fileexchange/165701-model-predictive-control-for-dc-motor-positioning
+11. Model-Reference-Adaptive-Control
+https://www.mathworks.com/matlabcentral/fileexchange/165477-model-reference-adaptive-control
+12. Extremum-Seeking-Control-Mass-Spring-Damper-System
+https://www.mathworks.com/matlabcentral/fileexchange/168021-extremum-seeking-control-mass-spring-damper-system
+13. DC-Motor-Position-with-Fuzzy-Logic-Control
+https://www.mathworks.com/matlabcentral/fileexchange/167991-dc-motor-position-with-fuzzy-logic-control
+
+
 
 
 
