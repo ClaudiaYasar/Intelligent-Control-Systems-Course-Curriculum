@@ -30,7 +30,7 @@ Recorded experiments are utilized to collect and create our datasets, allowing f
 # Contents
 Live Scripts with complementary material are available in folders containing the following sections:
 
-## Introduction to Inteligent Control
+## Introduction to Intelligent Control
 1. [Computational Thinking Tools](https://www.mathworks.com/matlabcentral/fileexchange/164221-computational-thinking-tools)
 
 ## Dynamical Systems Modeling
