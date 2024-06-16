@@ -6,6 +6,7 @@ This teaching package introduces the Intelligent Control Systems Curriculum usin
 Some practical experiments are carried out with Arduino-based and low-cost hardware, including the TC-lab (with heaters and temperature sensors), a DC micro gear motor with an encoder using the L298N Dual H-Bridge, and image processing using a webcam. Some videos support the datasets of many experiments and illustrate systems results to evaluate performances enhancing the learning experience. 
 
 The package consists of a series of MATLAB [Live Scripts](https://www.mathworks.com/products/matlab/live-editor.html) with complementary material. 
+
 [MATLAB](https://www.mathworks.com/products/matlab.html) is a programming and numeric computing platform developed by MathWorks.
 
 # Examples 
