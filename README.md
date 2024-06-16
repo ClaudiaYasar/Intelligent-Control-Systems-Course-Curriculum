@@ -2,7 +2,7 @@
 
 # Description
 
-This teaching package introduces the Intelligent Control Systems Curriculum using MATLAB Live Scripts, PDFs, and supporting videos. Topics include model-based vs. data-driven systems, computational tools, dynamical modeling, machine learning, deep learning, model predictive control, extremum seeking control, model reference adaptive control, and fuzzy logic control strategies supported by performance evaluation. This course has been designeded for both undergraduate and postgraduate Control and Automation Engineers. 
+This teaching package introduces the Intelligent Control Systems Curriculum using MATLAB Live Scripts, PDFs, and supporting videos. Topics include model-based vs. data-driven systems, computational tools, dynamical modeling, machine learning, deep learning, model predictive control, extremum seeking control, model reference adaptive control, and fuzzy logic control strategies supported by performance evaluation. This course has been designed for both undergraduate and postgraduate Control and Automation Engineers. 
 Some practical experiments are carried out with Arduino-based and low-cost hardware, including the TC-lab (with heaters and temperature sensors), a DC micro gear motor with an encoder using the L298N Dual H-Bridge, and image processing using a webcam. Some videos support the datasets of many experiments and illustrate systems results to evaluate performances enhancing the learning experience. 
 
 The package consists of a series of MATLAB [Live Scripts](https://www.mathworks.com/products/matlab/live-editor.html) with complementary material. 
@@ -46,7 +46,7 @@ Live Scripts with complementary material are available in folders containing the
 8. [Deep Learning and Yolov2 for Object Classification](https://www.mathworks.com/matlabcentral/fileexchange/168121-deep-learning-and-yolov2-for-object-classification)
 9. [Python-and-MATLAB-RRN-LSTM-Model-for-Prediction-and-Forecast](https://www.mathworks.com/matlabcentral/fileexchange/168131-python-and-matlab-rrn-lstm-model-for-prediction-and-forecast)
 
-## Model-driven and Data-Driven Control
+## Model-driven and Data-driven Control
 10. [Model Predictive Control for DC Motor Positioning](https://www.mathworks.com/matlabcentral/fileexchange/165701-model-predictive-control-for-dc-motor-positioning)
 11. [Model-Reference-Adaptive-Control](https://www.mathworks.com/matlabcentral/fileexchange/165477-model-reference-adaptive-control)
 12. [Extremum-Seeking-Control-Mass-Spring-Damper-System](https://www.mathworks.com/matlabcentral/fileexchange/168021-extremum-seeking-control-mass-spring-damper-system)
