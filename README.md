@@ -13,9 +13,7 @@ The package consists of a series of MATLAB [Live Scripts](https://www.mathworks
 [MATLAB](https://www.mathworks.com/products/matlab.html) is a programming and numeric computing platform developed by MathWorks.
 
 # Examples 
-
-![image]([https://github.com/ClaudiaYasar/Intelligent-Control-Systems-Course-Curriculum/assets/132692602/f4ce44e1-f11b-481f-8ce0-5b934535012a](https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/a4300469-0f64-4887-99a2-78bbefe7319a/5f039109-7107-4e16-abe0-55aaa798d22c/images/1718803731.jpg))
-
+![image]([https://github.com/ClaudiaYasar/Intelligent-Control-Systems-Course-Curriculum/assets/132692602/d4a31f1e-0c9b-41fe-ab46-4324688ca2db](https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/a4300469-0f64-4887-99a2-78bbefe7319a/5f039109-7107-4e16-abe0-55aaa798d22c/images/1718803731.jpg))
 
 # Instructions
 The teaching materials can be approached by following each of the required subjects one by one and studying the presented Material.
