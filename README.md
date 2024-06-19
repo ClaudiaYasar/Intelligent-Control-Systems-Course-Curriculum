@@ -11,7 +11,8 @@ The package consists of a series of MATLAB [Live Scripts](https://www.mathworks
 
 # Examples 
 
-![image](https://github.com/ClaudiaYasar/Intelligent-Control-Systems-Course-Curriculum/assets/132692602/ca8fe7de-5d85-4764-9119-eb28eede990c)
+[![image](https://github.com/ClaudiaYasar/Intelligent-Control-Systems-Course-Curriculum/assets/132692602/ca8fe7de-5d85-4764-9119-eb28eede990c)](https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/a4300469-0f64-4887-99a2-78bbefe7319a/7b87f65f-57f4-44f9-b4f2-95d7ed346659/images/1718471620.jpg)
+
 
 # Instructions
 The teaching materials can be approached by following each of the required subjects one by one and studying the presented Material.
