@@ -13,7 +13,6 @@ The package consists of a series of MATLAB [Live Scripts](https://www.mathworks
 
 ![image](https://github.com/ClaudiaYasar/Intelligent-Control-Systems-Course-Curriculum/assets/132692602/ca8fe7de-5d85-4764-9119-eb28eede990c)
 
-
 # Instructions
 The teaching materials can be approached by following each of the required subjects one by one and studying the presented Material.
 
@@ -27,7 +26,7 @@ Some subjects can also be approached by following presentations that will provid
 This teaching package employs Arduino-based, low-cost hardware for hands-on experiments. The platforms include the [TC-lab](https://apmonitor.com/pdc/index.php/Main/ArduinoTemperatureControl) with two heaters and temperature sensors, a DC micro gear motor, and image processing using a webcam. These setups allow students to use and evaluate datasets, providing practical experience in intelligent control systems.
 
 ## Videos 
-Recorded experiments are utilized to collect and create our datasets, allowing for detailed evaluation and comparison of performance across various subjects within the curriculum. 
+Recorded experiments are utilized to collect and create our datasets, allowing for detailed evaluation and comparison of performance across various subjects within the curriculum. [ControlTech lab](https://www.youtube.com/channel/UC4HUYU5zKblBf-LD-CjEDWA)
 
 # Contents
 Live Scripts with complementary material are available in folders containing the following sections:
