@@ -14,7 +14,7 @@ The package consists of a series of MATLAB [Live Scripts](https://www.mathworks
 
 # Examples 
 
-[![image](https://github.com/ClaudiaYasar/Intelligent-Control-Systems-Course-Curriculum/assets/132692602/ca8fe7de-5d85-4764-9119-eb28eede990c)](https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/a4300469-0f64-4887-99a2-78bbefe7319a/7b87f65f-57f4-44f9-b4f2-95d7ed346659/images/1718471620.jpg)
+https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/a4300469-0f64-4887-99a2-78bbefe7319a/5f039109-7107-4e16-abe0-55aaa798d22c/images/1718803731.jpg
 
 
 # Instructions
