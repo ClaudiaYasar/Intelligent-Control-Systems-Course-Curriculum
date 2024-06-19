@@ -26,7 +26,7 @@ Some subjects can also be approached by following presentations that will provid
 This teaching package employs Arduino-based, low-cost hardware for hands-on experiments. The platforms include the [TC-lab](https://apmonitor.com/pdc/index.php/Main/ArduinoTemperatureControl) with two heaters and temperature sensors, a DC micro gear motor, and image processing using a webcam. These setups allow students to use and evaluate datasets, providing practical experience in intelligent control systems.
 
 ## Videos 
-Recorded experiments are utilized to collect and create our datasets, allowing for detailed evaluation and comparison of performance across various subjects within the curriculum. [ControlTech lab](https://www.youtube.com/channel/UC4HUYU5zKblBf-LD-CjEDWA)
+Recorded experiments are utilized to collect and create our datasets, allowing for detailed evaluation and comparison of performance across various subjects within the curriculum [ControlTech lab](https://www.youtube.com/channel/UC4HUYU5zKblBf-LD-CjEDWA).
 
 # Contents
 Live Scripts with complementary material are available in folders containing the following sections:
