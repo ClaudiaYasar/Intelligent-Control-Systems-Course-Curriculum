@@ -14,16 +14,16 @@ MATLAB is a programming and numeric computing platform developed by MathWorks.
 
 # Instructions
 The teaching materials can be approached by following each of the required subjects one by one and studying the presented Material.
-## Live Scripts
+Live Scripts
 The instructions inside the Live Scripts will guide you through the activities and examples. We suggest running each section within a Live Script individually. Use the Interactive Live Script and experiment with their suggested material and additional hyperlinks that provide additional information.
-## PDFs Material
+PDFs Material
 Some subjects can also be approached by following presentations that will provide links to complementary resources.
-## Experimental Platforms
+Experimental Platforms
 This teaching package employs Arduino-based, low-cost hardware for hands-on experiments. The platforms include the TC-lab with two heaters and temperature sensors, a DC micro gear motor, and image processing using a webcam. These setups allow students to use and evaluate datasets, providing practical experience in intelligent control systems.
-## Videos
+Videos
 Recorded experiments are utilized to collect and create our datasets, allowing for detailed evaluation and comparison of performance across various subjects within the curriculum.  Control Tech lab 
 
-Live Scripts with complementary material are available in folders containing the following sections:
+# Live Scripts with complementary material are available in folders containing the following sections:
 
 ## Introduction to Intelligent Control
 1. Computational Thinking Tools
