@@ -13,7 +13,6 @@ The package consists of a series of MATLAB [Live Scripts](https://www.mathworks
 [MATLAB](https://www.mathworks.com/products/matlab.html) is a programming and numeric computing platform developed by MathWorks.
 
 # Examples 
-![image](https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/a4300469-0f64-4887-99a2-78bbefe7319a/5f039109-7107-4e16-abe0-55aaa798d22c/images/1718803731.jpg)
 
 |<img src="Images/dc_motor_control.jpg" width="250"><br>DC motor control| 
 
