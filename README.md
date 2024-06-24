@@ -15,6 +15,9 @@ The package consists of a series of MATLAB [Live Scripts](https://www.mathworks
 # Examples 
 ![image](https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/a4300469-0f64-4887-99a2-78bbefe7319a/5f039109-7107-4e16-abe0-55aaa798d22c/images/1718803731.jpg)
 
+| <img src="Images/dc_motor_control.jpg" width="250"><br>Solving XOR problem with<br>Multilayer Perceptron | 
+
+
 # Instructions
 The teaching materials can be approached by following each of the required subjects one by one and studying the presented Material.
 
