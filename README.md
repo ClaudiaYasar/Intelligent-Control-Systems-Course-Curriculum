@@ -52,7 +52,7 @@ Live Scripts with complementary material are available in folders containing the
 6. [Semi-Empirical-Model-Estimation-Regression](https://www.mathworks.com/matlabcentral/fileexchange/167986-semi-empirical-model-estimation-regression)
 7. [Machine-Learning-Classification-with-Experiments](https://www.mathworks.com/matlabcentral/fileexchange/167851-machine-learning-classification-with-experiments)
 8. [Deep Learning and Yolov2 for Object Classification](https://www.mathworks.com/matlabcentral/fileexchange/168121-deep-learning-and-yolov2-for-object-classification)
-9. [Python-and-MATLAB-RRN-LSTM-Model-for-Prediction-and-Forecast](https://www.mathworks.com/matlabcentral/fileexchange/168131-python-and-matlab-rrn-lstm-model-for-prediction-and-forecast)
+9. [Python-and-MATLAB-RNN-LSTM-Model-for-Prediction-and-Forecast](https://www.mathworks.com/matlabcentral/fileexchange/168131-python-and-matlab-rrn-lstm-model-for-prediction-and-forecast)
 
 ## Model-driven and Data-driven Control
 10. [Model Predictive Control for DC Motor Positioning](https://www.mathworks.com/matlabcentral/fileexchange/165701-model-predictive-control-for-dc-motor-positioning)
