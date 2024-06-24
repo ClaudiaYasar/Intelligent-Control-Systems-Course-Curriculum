@@ -16,7 +16,7 @@ The package consists of a series of MATLAB [Live Scripts](https://www.mathworks
 
 # Examples 
 
-|<img src="Images/dc_motor_control.jpg" width="250">|<img src="Images/Classification.jpg" width="250"> |<img src="Images/Classification.jpg" width="250"> |
+|<img src="Images/dc_motor_control.jpg" width="250">|<img src="Images/Classification.jpg" width="350"> |<img src="Images/Classification.jpg" width="350"> |
 
 
 
