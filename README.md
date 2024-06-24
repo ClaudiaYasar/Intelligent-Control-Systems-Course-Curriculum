@@ -16,9 +16,9 @@ The package consists of a series of MATLAB [Live Scripts](https://www.mathworks
 
 # Examples 
 
-|<img src="Images/dc_motor_control.jpg" width="250">|<img src="Images/Classification.jpg" width="350">|<img src="Images/Classification.jpg" width="350">|
+|<img src="Images/dc_motor_control.jpg" width="350">|<img src="Images/Classification.jpg" width="350">|<img src="Images/Classification.jpg" width="350">|
 | ----------- | ----------- | ----------- |
-|<img src="Images/CNN_LSTM.jpg" width="500">|<img src="Images/object_detection.jpg" width="350">|<img src="Images/Wingrock.jpg" width="350">|
+|<img src="Images/CNN_LSTM.jpg" width="400">|<img src="Images/object_detection.jpg" width="350">|<img src="Images/Wingrock.jpg" width="350">|
 
 
 # Instructions
