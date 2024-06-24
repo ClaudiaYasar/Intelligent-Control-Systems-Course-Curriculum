@@ -15,7 +15,8 @@ The package consists of a series of MATLAB [Live Scripts](https://www.mathworks
 # Examples 
 
 |<img src="Images/dc_motor_control.jpg" width="250"><br>DC motor control 
-[![View Intelligent Control Systems Asst. Prof. Dr Claudia F. Yaşar on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/164976-dc-motor-dynamics-modeling-and-position-control)|
+[![View Intelligent Control Systems Asst. Prof. Dr Claudia F. Yaşar on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/164976-dc-motor-dynamics-modeling-and-position-control)|<img src="Images/Classification.jpg" width="250"><br>Machine-Learning-Classification 
+[![View Intelligent Control Systems Asst. Prof. Dr Claudia F. Yaşar on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/167851-machine-learning-classification-with-experiments)|
 
 
 # Instructions
