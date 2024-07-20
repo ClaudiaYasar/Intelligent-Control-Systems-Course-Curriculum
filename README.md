@@ -60,7 +60,8 @@ Live Scripts with complementary material are available in folders containing the
 12. [Extremum-Seeking-Control-Mass-Spring-Damper-System](https://www.mathworks.com/matlabcentral/fileexchange/168021-extremum-seeking-control-mass-spring-damper-system)
 13. [DC-Motor-Position-with-Fuzzy-Logic-Control](https://www.mathworks.com/matlabcentral/fileexchange/167991-dc-motor-position-with-fuzzy-logic-control)
 
-# A series of 15 MATLAB Grader problems is available in connection with this course. Solutions are available upon instructor request. Contact the MathWorks teaching resources team (onlineteaching@mathworks.com) if you would like to request solutions, provide feedback, or if you have a question.
+# MATLAB Grader
+A series of 15 MATLAB Grader problems is available in connection with this course. Solutions are available upon instructor request. Contact the MathWorks teaching resources team (onlineteaching@mathworks.com) if you would like to request solutions, provide feedback, or if you have a question.
 
 # Learning Goals
 - Learn the fundamentals behind intelligent control system design to handle complex systems 
