@@ -19,7 +19,6 @@ The package consists of a series of MATLAB [Live Scripts](https://www.mathworks
 |<img src="Images/dc_motor_control.jpg" width="300">|<img src="Images/Classification.jpg" width="390">|<img src="Images/Sea_level.jpg" width="390">|
 | ----------- | ----------- | ----------- |
 |<img src="Images/CNN_LSTM.jpg" width="400">|<img src="Images/object_detection.jpg" width="350">|<img src="Images/Wingrock.jpg" width="390">|
-![image](https://github.com/user-attachments/assets/c2b9a43a-dd04-443a-a1fd-d62c13950d05)
 
 
 # Instructions
