@@ -18,8 +18,8 @@ The package consists of a series of MATLAB [Live Scripts](https://www.mathworks
 
 <p float="left">
   <img src="Images/dc_motor_control.jpg" width="300" />
-  <img src="Images/Classification.jpg" width="390" /> 
-  <img src="Images/Sea_level.jpg" width="390" />
+  <img src="Images/Classification.jpg" width="350" /> 
+  <img src="Images/Sea_level.jpg" width="350" />
 </p>
 <p float="left">
   <img src="Images/CNN_LSTM.jpg" width="400" />
