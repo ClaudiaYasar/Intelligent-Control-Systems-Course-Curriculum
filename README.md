@@ -16,7 +16,7 @@ The package consists of a series of MATLAB [Live Scripts](https://www.mathworks
 
 # Examples 
 
-|<img src="main_fig.jpg" width="300">|
+|<img src="main_fig.jpg" width="900">|
 
 
 # Instructions
